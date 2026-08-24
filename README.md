@@ -22,19 +22,21 @@ The project uses survey response data to analyze students' concerns about employ
 - Data Visualization
 
 ## Project Files
-
+```text
 Employment-Anxiety-Career-Readiness-Analysis/
-
 │
 ├── DA PROJECT.twb
 ├── DA PROJECT.pdf
 ├── Analyzing Employment Anxiety and Career Readiness Among Students Using Data Analytics (Responses).xlsx
 └── README.md
+```
 
 ## How to View
 1. Download the repository files.
 2. Open the Tableau workbook file:
+```bash
 DA PROJECT.twb
+```
 3. View the dashboard and visualizations in Tableau.
 
 You can also open the PDF report:
@@ -52,6 +54,6 @@ Future Improvements
 - Add deeper insights and recommendations
 
 ## Author
-Monika M
+Monika M -
 MCA Student
 
